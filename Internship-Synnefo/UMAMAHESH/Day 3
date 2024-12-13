@@ -1,0 +1,205 @@
+DAY - 3
+
+
+CORE : The processor within your computer that executes instructions and processes data. It's essentially the “brain” of your computer. Each core can handle its own tasks and process information independently.
+
+THREAD : A thread is a sequence of instructions that a CPU core can execute, and is a fundamental unit for multitasking
+
+
+SOCKET : A physical component on a motherboard that allows a processor to be installed and connected to the rest of the computer
+
+SPEED BASE FREQUENCY :  The speed at which it operates when it's at its default settings and not under any additional load
+
+
+INTEL PROCESSORS
+
+1.Intel Core i7 processor 14700KF
+    Total Cores - 20 
+    Total Threads - 28
+    Socket Supported - FCLGA1700
+    Max Turbo Frequency - 5.6 GHz
+
+2.Intel® Core™ i9-10980HK Processor 
+    Total Cores - 8
+    Total Threads - 16
+    Socket Supported - FCBGA1440
+    Max Turbo Frequency - 5.30 GHz
+    Processor Base Frequency - 2.40 GHz
+
+3. Intel® Core™ i5-13600K Processor
+    Total Cores - 8
+    Total Threads - 16
+    Socket Supported - FCBGA1440
+    Max Turbo Frequency - 5.30 GHz
+    Processor Base Frequency - 2.40 GHz
+
+AMD PROCESSORS
+
+1.AMD Ryzen™ 5 9600X 
+    Total Cores - 6
+    Total Threads - 12
+    CPU Socket - AM5
+    Max Turbo Frequency - 5.4 GHz
+    Processor Base Frequency - 3.9 GHz
+
+2.AMD Ryzen™ 9 9950X
+    Total Cores - 16
+    Total Threads - 32
+    CPU Socket - AM5
+    Max Turbo Frequency - 5.7 GHz
+    Processor Base Frequency - 4.3 GHz
+
+3.AMD Ryzen™ 7 8700G
+    Total Cores - 8
+    Total Threads - 16
+    CPU Socket - AM5
+    Max Turbo Frequency - 5.1 GHz
+    Processor Base Frequency - 4.2 GHz
+=======================================================================================================================================================================================================
+
+                        1.
+1.Find the number of cores and threads in Intel's latest generation processors
+
+Intel® Core™ Ultra 9 Processor 288V (12M Cache, up to 5.10 GHz)
+Total Cores - 8 
+Threads - 8
+Max Turbo Frequency - 5.1 GHz
+
+
+
+========================================================================================================================================================================================================
+                    
+                        2.
+
+Identify what each field indicate for the Intel processors below:
+● Intel Core i9 14700 K
+● Intel Core i7 1065 G7
+
+1. Intel Core i9-14700K
+
+    Intel Core: Brand name, indicating this is part of Intel's Core processor lineup.
+    i9: Processor series, where i9 represents a high-performance tier suitable for gaming, content creation, and other demanding tasks.
+    14700:
+        14: Indicates the processor generation (14th Gen), showing the latest architecture and improvements.
+        700: Represents the specific SKU (stock-keeping unit) within the series, where higher numbers usually signify better performance in that generation.
+    K: Denotes an unlocked processor that supports overclocking for enhanced performance.
+
+2.Intel Core i7 1065 G7
+
+    Core i7-1065G7 has 8 MB of L3 cache and operates at 1300 MHz by default, but can boost up to 3.9 GHz, depending on the workload. Intel is making the Core i7-1065G7 on a 10 nm production node, the transistor count is unknown. The multiplier is locked on Core i7-1065G7, which limits its overclocking potential.
+    
+    i7:The Intel® Core™ i7 processors are known for their powerful performance, advanced features, and multitasking capabilities. They offer excellent speed and can handle demanding tasks such as gaming, video editing, and software development with ease.
+
+    10: Indicates in 10th Generation Intel® Core™ i7 Processors 
+    65: processor's model within  the generation
+    G7:It means G stands for Integrated Graphics
+
+
+Identify what each field indicate for the AMD processors below:
+● AMD Ryzen 7 1700 X
+● AMD Ryzen 9 5900 U
+
+1. AMD Ryzen 7 1700X
+
+    AMD - Advanced Micro Devices,
+    Ryzen - Ryzen is the brand name for Advanced Micro Devices' (AMD) line of computer processors
+    7 - In AMD processor naming, the number 7 indicates that the processor was unveiled in 2023
+    1700 - model
+    X - X is the performance series, or tier. It is one of four numbers -- 3, 5, 7 or 9 -- and  performance is measured in ascending order.
+
+2. AMD Ryzen 9 5900 U
+
+    AMD - Advanced Micro Devices,
+    Ryzen - Ryzen is the brand name for Advanced Micro Devices' (AMD) line of computer processors
+    9 - In AMD's Ryzen processor naming system, the number 9 indicates the highest performance level
+    5900 : model number.
+    U: ultra-low power devices, such as ultrabooks.
+
+=====================================================================================================================================================
+
+                            3.
+Collect the specifications of Intel's latest gen processors based on brand
+modifiers.
+
+    Intel's latest generation processors include the 13th and 14th generation Core processors: 
+
+    13th Generation (Raptor Lake)
+    Released in late 2022, these processors support DDR5 memory and PCIe 5.0. They also feature    Intel Wi-Fi 6/6E (Gig+) and Intel Bluetooth 5.2. 
+
+14th Generation
+Some of the processors in this generation include:
+
+    Intel Core i5 processor 14600T: This processor is scheduled for launch in Q1'24 and has an Intel UHD Graphics 770 GPU. 
+
+Intel Core i7 processor 14650HX: This processor is scheduled for launch in Q1'24 and has an Intel UHD Graphics for 14th Gen Intel Processors GPU. 
+Intel Core i7 processor 14700: This processor is scheduled for launch in Q1'24 and has an Intel UHD Graphics 770 GPU. 
+
+Intel's processor naming convention uses suffixes to indicate the processor's intended use:
+
+    S: Special edition or variant
+    T: Low power
+    E: Embedded
+    WX: Workstation-class
+    U: Power efficient
+    P: Performance for thin & light
+    H: High performance
+    HX: Highest performance 
+
+
+
+
+Collect the details of Intel’s latest gen mobile and desktop processor.
+
+14th generation
+Announced at CES 2024, the 14th generation includes the HX-series mobile processors and 65-watt and 35-watt desktop processors. The HX-series processors are designed for gamers, creators, and professionals who need high compute performance and mobility. The i9-14900HX processors have 24 cores and 32 threads, while the i7-14700HX processors have 20 cores and 28 threads. 
+13th generation
+The 13th generation was announced in September 2022, and includes the 13th Gen Intel Core i9-13900K desktop processor, which was the world's fastest desktop processor at the time. The 13th generation mobile processors were announced in January 2023. 
+Alder Lake
+The Alder Lake processors use a hybrid architecture that combines performance and efficiency cores. The desktop Alder Lake processors were available by January 2022, but the mobile processors were not released until later that year. 
+
+The generation of an Intel processor is the first number after i9, i7, i5, or i3. For example, the Intel Core i9-14900HX Processor is 14th generation because the number 14 is listed after i9. 
+
+
+
+
+
+
+========================================================================================================================================================================================================
+
+2nd Task we explored different OS using VMware Workstation installed Windows 10, Alma Linux, Kali Linux, Linux Mint and Windows 11
+
+=======================================================================================================================================================================================================
+
+Changed Desktop Environment Cinnamon(Default) to GNOME and Reasearched about More Desktop Environments and Discussed about different OS.
+Desktop Environments
+1.Cinnamon
+2.GNOME
+3.Xfce
+4.Pantheon
+5.Budgie
+6.Sugar
+7.Lxqt
+
+Different OS under linux kernel
+
+1.Manjaro
+2.Pop 
+3.Zorin
+4.Lime
+5.Pepper Mint
+6.Reborn OS
+7.Alpine
+8.Fedora
+9.Arch Linux
+10.Rocky Linux
+11.Alma Linux
+12.Garuda Linux
+
+=======================================================================================================================================================================================================
+
+
+
+
+
+
+
