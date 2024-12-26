@@ -1,0 +1,23 @@
+$ git config --global user.name "umesh"
+$ git config --list
+
+
+$ mkdir workspace
+$ cd workspace
+
+
+$ git clone https://github.com/Kazuto0p/New.git
+$ ls
+$ touch hello.py
+
+
+$ git add hello.py
+$ git status
+
+
+
+$ git commit -m "gitstest"
+
+$ git remote set-url origin https://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@github.com/kazuto0p/New 
+
+$ git push origin main 
